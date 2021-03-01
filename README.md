@@ -16,6 +16,6 @@ All the Basic CRUD Operations are performed :
 <h3>POSTMAN</h3>Is a collaboration platform for API development. We can use POSTMAN to easily send different types of REST Requests from within the application while specifying our own body and Headers. This can be used to verify all the 4 types of Requests.
 
 <h2> To RUN:</h2>
-Run <b>WebService.py</b> and it will start a locally hosted server.
+Run <b>webservice.py</b> and it will start a locally hosted server.
 
 
